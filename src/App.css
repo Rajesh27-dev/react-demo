@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+input{
+  outline: none;
+}
+.form{
+  text-align:center;
+  align-items: center;
+}
+.fieldStyle{
+  margin-right: 10px;
+ text-align:right;
+}
+.input_field{
+  width:auto;
+ text-align: center;
+}
+table{
+  margin: 0 auto;
+}
+td{
+  width: 33%;
+}
+
+
